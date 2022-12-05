@@ -25,11 +25,6 @@
 	  width: 100%;
 	  height: 160px;
 	}
-
-	.carousel-item{
-		width : 500px;
-	    height: 500px;	    
-	} 
 	.carousel-item img{
 		width: 500px;
 	    height: 500px;	    
