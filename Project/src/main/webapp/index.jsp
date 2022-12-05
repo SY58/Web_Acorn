@@ -27,7 +27,7 @@
 	}
 	.carousel-item img{
 		width: 500px;
-	    height: 500px;	    
+	    height: 500px;
 	}
 }
 </style>
@@ -42,14 +42,20 @@
 			<h3 class="mt-5"><strong>베스트 셀러 Top3</strong></h3>
 			<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
 			  <div class="carousel-inner">
+
 		    	<div class="carousel-item text-center active">
+
 			     <img src="https://bimage.interpark.com/partner/goods_image/5/6/2/4/355855624g.jpg" alt="...">
 			    </div>
+
 			    <div class="carousel-item text-center">
 			      <img src="https://bimage.interpark.com/partner/goods_image/0/3/6/1/355430361g.jpg" alt="...">
+
 			    </div>
+
 			    <div class="carousel-item text-center">
 			      <img src="https://bimage.interpark.com/partner/goods_image/9/3/0/5/355939305g.jpg" alt="...">
+
 			    </div>
 			  </div>
 			</div>
